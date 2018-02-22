@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RugbyCompetition</string>
+    <string name="TeamATry">Team A scored a Try</string>
+    <string name="TeamAPen_Drop">Team A scored a Penalty or Dropped goal</string>
+    <string name="TeamAConversion">Team A scored a Conversion</string>
+    <string name="TeamBTry">Team B scored a Try</string>
+    <string name="TeamBPen_Drop">Team B scored a Penalty or Dropped goal</string>
+    <string name="TeamBConversion">Team B scored a Conversion</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="teanA_5_points">+5 points</string>
+    <string name="teamA_3_points">+3 points</string>
+    <string name="teamA_2_points">+2 points</string>
+    <string name="teamB_5_points">+5 points</string>
+    <string name="teamB_3_points">+3 points</string>
+    <string name="teamB_2_points">+2 points</string>
+    <string name="reset">Reset</string>
+
+</resources>
